@@ -52,7 +52,7 @@
             "id": 4,
             "project_name": "Awesome Employee Directory: Public API Requests",
             "description": "Demonstrates API integration with the Random User Generator API via Javascript through an Employee Directory for a fictional company called 'Awesome Startup'.",
-            "technologies": "Javascript, HTML, CSS, Random User Generator API",
+            "technologies": "Javascript, HTML, CSS, Fetch, Random User Generator API",
             "live_link": "https://alexhippo.github.io/public-api-request",
             "github_link": "https://github.com/alexhippo/public-api-request",
             "image_urls": [
