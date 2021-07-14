@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Portfolio site for a web developer built using Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexhippo/static-node-and-express-portfolio.git"
+  },
+  "author": "Alex Hipolito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexhippo/static-node-and-express-portfolio/issues"
+  },
+  "homepage": "https://github.com/alexhippo/static-node-and-express-portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
