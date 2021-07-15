@@ -1,0 +1,9 @@
+extends layout
+
+block content 
+    section.desk 
+        br
+        h1= `${error.message}` 
+        h2= `Status: ${error.status}` 
+        a(href='/') Back to Home
+        pre.stack-trace= error.stack 
