@@ -20,7 +20,7 @@ router.get('/:id', (req, res) => {
     const { id } = req.params;
 
     if (projects[id]) {
-        res.render('project', projects);
+        res.render('project', projects[id]);
     } else {
         const err = new Error(`Sorry, we couldn't find that project.`);
         err.status = 404;

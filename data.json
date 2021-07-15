@@ -3,8 +3,12 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description": "Displays random quotes from the women of the Marvel Cinematic Universe.",
-            "technologies": "Javascript, HTML, CSS",
+            "description": "This web app displays some of my favourite quotes from the women of the Marvel Cinematic Universe at random. It also changes the background color as the quote is changed. This project was created as part of the Treehouse Full Stack JavaScript Techdegree.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
             "live_link": "https://alexhippo.github.io/random-quote-generator/",
             "github_link": "https://github.com/alexhippo/random-quote-generator",
             "image_urls": [
@@ -15,8 +19,12 @@
         {
             "id": 1,
             "project_name": "Data Pagination & Filtering",
-            "description": "This app demonstrates data pagination and filtering techniques using a database of example student records.",
-            "technologies": "Javascript, HTML, CSS",
+            "description": "This app demonstrates data pagination, filtering and DOM Manipulation techniques using a list of example student records. My project code was written in vanilla JS and not dependent on third party or external libraries. This project was created as part of the Treehouse Full Stack Techdegree course.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
             "live_link": "https://alexhippo.github.io/data-pagination-and-filtering/",
             "github_link": "https://github.com/alexhippo/data-pagination-and-filtering",
             "image_urls": [
@@ -27,8 +35,12 @@
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "Interactive registration form for a fictional Developer Conference.",
-            "technologies": "Javascript, HTML, CSS",
+            "description": "This project demonstrates front-end vanilla Javascript client-side validation and basic web accessibility through an interactive registration form for a fictional Full Stack Developer Conference. This project was created as part of the Treehouse Full Stack Javascript Techdegree.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ],
             "live_link": "https://alexhippo.github.io/interactive-form/",
             "github_link": "https://github.com/alexhippo/interactive-form",
             "image_urls": [
@@ -39,8 +51,14 @@
         {
             "id": 3,
             "project_name": "Phrase Hunter: Object-Oriented Programming Game",
-            "description": "Browser-based word guessing game built with Object Oriented Programming principles.",
-            "technologies": "Javascript, HTML, CSS",
+            "description": "This project demonstrates Object-Oriented Programming principles with Javascript through a browser-based, word guessing game called 'Phrase Hunter'. Players will try to guess a random hidden phrase (based on popular phrase from the year 2020) by clicking letters on an onscreen keyboard.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Animate.css",
+                "Google Fonts"
+            ],
             "live_link": "https://alexhippo.github.io/oop_game/",
             "github_link": "https://github.com/alexhippo/oop_game",
             "image_urls": [
@@ -51,8 +69,14 @@
         {
             "id": 4,
             "project_name": "Awesome Employee Directory: Public API Requests",
-            "description": "Demonstrates API integration with the Random User Generator API via Javascript through an Employee Directory for a fictional company called 'Awesome Startup'.",
-            "technologies": "Javascript, HTML, CSS, Fetch, Random User Generator API",
+            "description": "This project demonstrates API integration to Javascript web frontend through an employee directory for a fictional company called 'Awesome Startup'. The API we were required to integrate with for this project was the Random User Generator API. This project was created as part of the Treehouse Full Stack Javascript Techdegree.",
+            "technologies": [
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Fetch API",
+                "Random User Generator API"
+            ],
             "live_link": "https://alexhippo.github.io/public-api-request",
             "github_link": "https://github.com/alexhippo/public-api-request",
             "image_urls": [

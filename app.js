@@ -12,7 +12,6 @@ const projectRoutes = require('./routes/projects');
 
 app.use('/static', express.static('public'));
 
-
 app.use(mainRoutes);
 app.use('/about', aboutRoute);
 app.use('/projects', projectRoutes);
