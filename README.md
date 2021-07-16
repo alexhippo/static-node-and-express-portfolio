@@ -9,7 +9,9 @@ The following styles were changed from the original project:
 - changed Heading and `p` font to Rubik
 - changed Link and Body font to Roboto Mono
 - added an emoji favicon from [Favicon.io](https://favicon.io/emoji-favicons/technologist/)
-- changed colour of Sidebar Link to #747474 for better Contrast
+- changed background colour and sidebar background colour to `#1d263b`
+- changed sidebar font colour to `#FFFFFF`
+- added hover transition of buttons to `#5c6784`
 
 ## Getting started
 ### Downloading
