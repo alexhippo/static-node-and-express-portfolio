@@ -32,11 +32,11 @@ article {
 }
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Rubik', serif;
+  font-weight: 800;
 }
 
 h5{
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   letter-spacing: 2.5px;
   -webkit-text-transform: uppercase;
   text-transform: uppercase;
@@ -50,8 +50,9 @@ h6{
 }
 
 p{
-  font-size: 15px;
+  font-size: 1.25em;
   color: #666;
+  font-weight: 400;
 }
 
 a {
@@ -114,9 +115,10 @@ nav {
 nav a {
   width: 100%;
   vertical-align: middle;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto Mono', monospace;
+  /* font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   font-weight: 600;
-  font-size: 13px;
+  font-size: 15px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
   color: #555; 
@@ -171,9 +173,9 @@ nav a span {
 }
 
 .sidebar a {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto Mono', monospace;
   font-weight: 600;
-  font-size: 13px;
+  font-size: 15px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
   color: #555;
@@ -242,7 +244,7 @@ nav a span {
 }
 
 .projects-box h5 {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Rubik', serif;
   font-weight: 500;
   font-size: 13px;
   letter-spacing: 2.25px;
@@ -272,7 +274,7 @@ nav a span {
 }
 
 .about-bio p {
-  font-size: 15px;
+  font-size: 18px;
   padding-top: 40px;
 }
 
