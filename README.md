@@ -6,12 +6,12 @@ This project demonstrates server-side Javascript with Node.js and Express throug
 
 ## Customised styles
 The following styles were changed from the original project:
-    - changed Heading and `p` font to Rubik
-    - changed Link and Body font to Roboto Mono
+- changed Heading and `p` font to Rubik
+- changed Link and Body font to Roboto Mono
 
 ## Getting started
 ### Downloading
-Click on the 'Clone or download' button and select 'Download Zip.'
+Click on the 'Code' button and clone this project via command line or select 'Download Zip.'
 
 ### Installing
 Step 1: Unzip the zip file.
