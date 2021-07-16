@@ -7,7 +7,7 @@ This project demonstrates server-side Javascript with Node.js and Express throug
 ## Customised styles
 The following styles were changed from the original project:
     - changed Heading and `p` font to Rubik
-    - changed Link font to Roboto Mono
+    - changed Link and Body font to Roboto Mono
 
 ## Getting started
 ### Downloading
