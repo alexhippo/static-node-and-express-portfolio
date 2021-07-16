@@ -262,8 +262,16 @@ nav a span {
   min-width: 100px;
   border: 4px solid #fff;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  filter: grayscale(1);
+  -webkit-transition: background-color 0.25s ease-out;
+  -moz-transition: background-color 0.25s ease-out;
+  -o-transition: background-color 0.25s ease-out;
+  transition: background-color 0.25s ease-out;
 }
 
+.cell img:hover {
+  filter: grayscale(0);
+}
 
 /* 
   About and project pages styles 
