@@ -50,7 +50,7 @@
         },
         {
             "id": 3,
-            "project_name": "Phrase Hunter: Object-Oriented Programming Game",
+            "project_name": "2020 Phrase Hunter: Object-Oriented Programming Game",
             "description": "This project demonstrates Object-Oriented Programming principles with Javascript through a browser-based, word guessing game called 'Phrase Hunter'. Players will try to guess a random hidden phrase (based on popular phrase from the year 2020) by clicking letters on an onscreen keyboard.",
             "technologies": [
                 "Javascript",
