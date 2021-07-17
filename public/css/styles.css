@@ -116,7 +116,6 @@ nav a {
   width: 100%;
   vertical-align: middle;
   font-family: 'Roboto Mono', monospace;
-  /* font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; */
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 2.5px;
@@ -186,7 +185,7 @@ nav a span {
   color: #fefefe;
   height: 40px;
   padding: 0.5rem;
-  background: #0a0a0a;
+  background: #1d263b;
   border-left: 1px solid #0a0a0a;
 }
 
