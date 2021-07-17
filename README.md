@@ -8,7 +8,7 @@ This project demonstrates server-side Javascript with Node.js and Express throug
 The following styles were changed from the original project:
 - changed Heading and `p` font to Rubik
 - changed Link and Body font to Roboto Mono
-- added an emoji favicon from [Favicon.io](https://favicon.io/emoji-favicons/technologist/)
+- added an emoji favicon from [Favicon.io](https://favicon.io/emoji-favicons/hippopotamus)
 - changed background colour and sidebar background colour to `#1d263b`
 - changed sidebar font colour to `#FFFFFF`
 - added hover transition of buttons to `#5c6784`
