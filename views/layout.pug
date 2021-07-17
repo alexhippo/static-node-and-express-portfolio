@@ -8,7 +8,8 @@ html(lang="en" dir="ltr")
     link(href='https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Rubik:wght@400;800&display=swap', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/normalize.css')
     link(rel='stylesheet', href='/static/css/styles.css')
-    //- This is to add a Favicon from Favicon.io
+    
+    //- Not a starter comment - this is to add a Favicon from Favicon.io
     link(rel='apple-touch-icon', href='/static/images/apple-touch-icon.png', sizes="180x180")
     link(rel="icon", type="image/png", sizes="32x32", href="/static/images/favicon-32x32.png")
     link(rel="icon", type="image/png", sizes="16x16", href="/static/images/favicon-16x16.png")
@@ -21,22 +22,14 @@ html(lang="en" dir="ltr")
         .thumbnail-box
           img.thumbnail(src='/static/images/profilepic.jpg', alt='Profile picture of Alex Hipolito')
         .dev-intro-box
-
-          //- Replace with your name
           h5 Alex Hipolito
-
-          //- Replace with description of who you are, what you do, and why you are so awesome
           p Full Stack Web Developer based in Sydney, Australia with industry experience in Media and Video Streaming Services.
-
-          //- Add path from your '/about' route handler to the href below
           a(href='/about') Learn More &rarr;
 
     .wrapper
       .header
         .header-info-box
           button#menu-icon.menu-icon(type='button' data-toggle='my-info')
-
-          //- Replace with your name — this is for the mobile layout
           span Alex Hipolito
 
       block content
