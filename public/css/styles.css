@@ -59,6 +59,11 @@ a {
   text-decoration: none;
 }
 
+a:focus {
+  outline: 0;
+  outline: 3px solid #4CB963;
+}
+
 .wrapper {
   width: 100%;
   min-width: 320px;
@@ -256,6 +261,15 @@ nav a span {
 
 .cell a {
   width: 100%;
+}
+
+.cell a:focus {
+  outline: 0;
+  outline: 3px solid #4CB963;
+}
+
+.cell a:focus > img {
+  filter: grayscale(0);
 }
 
 .cell img {
