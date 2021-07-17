@@ -64,6 +64,14 @@ a:focus {
   outline: 3px solid #4CB963;
 }
 
+a:active {
+  color: #4CB963;
+}
+
+a:visited {
+  color: #157F1F;
+}
+
 .wrapper {
   width: 100%;
   min-width: 320px;
@@ -125,6 +133,10 @@ nav a {
   font-size: 16px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
+  color: #555; 
+}
+
+nav>a:active, nav>a:visited {
   color: #555; 
 }
 
@@ -335,6 +347,10 @@ nav a span {
 
 .btn-link:focus {
   background-color: #5c6784;
+}
+
+.btn-link:active, .btn-link:visited {
+  color: #ffffff;
 }
 
 
