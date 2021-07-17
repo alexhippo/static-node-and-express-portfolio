@@ -32,7 +32,7 @@ article {
 }
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Rubik', serif;
+  font-family: 'Rubik', sans-serif;
   font-weight: 800;
 }
 
@@ -193,6 +193,8 @@ nav a span {
 .header span {
   display: inline-block;
   font-weight: bold;
+  font-family: 'Rubik', sans-serif;
+  text-transform: uppercase;
 }
 
 .header button {
@@ -244,7 +246,7 @@ nav a span {
 }
 
 .projects-box h5 {
-  font-family: 'Rubik', serif;
+  font-family: 'Rubik', sans-serif;
   font-weight: 500;
   font-size: 13px;
   letter-spacing: 2.25px;
