@@ -13,7 +13,8 @@
             "github_link": "https://github.com/alexhippo/random-quote-generator",
             "image_urls": [
                 "/static/images/random-quote-generator-main.png",
-                "/static/images/random-quote-generator-landscape.png"
+                "/static/images/random-quote-generator-landscape.png",
+                "/static/images/random-quote-generator-landscape-2.png"
             ]
         },
         {
@@ -29,7 +30,8 @@
             "github_link": "https://github.com/alexhippo/data-pagination-and-filtering",
             "image_urls": [
                 "/static/images/data-pagination-and-filtering-main.png",
-                "/static/images/data-pagination-and-filtering-landscape.png"
+                "/static/images/data-pagination-and-filtering-landscape.png",
+                "/static/images/data-pagination-and-filtering-landscape-2.png"
             ]
         },
         {
@@ -45,7 +47,8 @@
             "github_link": "https://github.com/alexhippo/interactive-form",
             "image_urls": [
                 "/static/images/interactive-form-main.png",
-                "/static/images/interactive-form-landscape.png"
+                "/static/images/interactive-form-landscape.png",
+                "/static/images/interactive-form-landscape-2.png"
             ]
         },
         {
@@ -63,7 +66,8 @@
             "github_link": "https://github.com/alexhippo/oop_game",
             "image_urls": [
                 "/static/images/oop-game-main.png",
-                "/static/images/oop-game-landscape.png"
+                "/static/images/oop-game-landscape.png",
+                "/static/images/oop-game-landscape-2.png"
             ]
         },
         {
@@ -81,7 +85,8 @@
             "github_link": "https://github.com/alexhippo/public-api-request",
             "image_urls": [
                 "/static/images/public-api-request-main.png",
-                "/static/images/public-api-request-landscape.png"
+                "/static/images/public-api-request-landscape.png",
+                "/static/images/public-api-request-landscape-2.png"
             ]
         }
     ]
