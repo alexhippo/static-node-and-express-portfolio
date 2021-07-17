@@ -99,7 +99,7 @@ a {
 }
 
 .box li {
-  font-size: 13px;
+  font-size: 16px;
 }
 
 
@@ -117,7 +117,7 @@ nav a {
   vertical-align: middle;
   font-family: 'Roboto Mono', monospace;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 16px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
   color: #555; 
@@ -167,14 +167,14 @@ nav a span {
 .sidebar p {
   text-rendering: optimizeLegibility;
   line-height: 1.6;
-  font-size: 14px;
+  font-size: 16px;
   color: #FFF
 }
 
 .sidebar a {
   font-family: 'Roboto Mono', monospace;
   font-weight: 600;
-  font-size: 15px;
+  font-size: 16px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
   color: #FFF;
@@ -204,7 +204,7 @@ nav a span {
   width: 20px;
   height: 16px;
   border: none;
-  background: #0a0a0a;
+  background: #1d263b;
   margin-top: 3px;
   margin-right: 10px;
   border-top: 2px solid #fefefe;
@@ -247,7 +247,7 @@ nav a span {
 .projects-box h5 {
   font-family: 'Rubik', sans-serif;
   font-weight: 500;
-  font-size: 13px;
+  font-size: 16px;
   letter-spacing: 2.25px;
   text-transform: uppercase;
   color: #222;;
@@ -270,7 +270,7 @@ nav a span {
   transition: background-color 0.25s ease-out;
 }
 
-.cell img:hover {
+.cell img:hover{
   filter: grayscale(0);
 }
 
@@ -316,6 +316,10 @@ nav a span {
 }
 
 .btn-link:hover {
+  background-color: #5c6784;
+}
+
+.btn-link:focus {
   background-color: #5c6784;
 }
 
