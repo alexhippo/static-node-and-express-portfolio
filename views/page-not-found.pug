@@ -3,7 +3,8 @@ extends layout
 block content 
     section.box
         br
-        h1= `🤷 Oh dear. ${error.message}` 
+        h1= `Oh dear. ${error.message} `
+          span(role="img", aria-label="woman shrugging") &#129335;
         h2= `Error Status Code: ${error.status}`
         p Please check the URL and try again.
     nav.nav

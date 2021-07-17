@@ -3,9 +3,10 @@ extends layout
 block content 
     section.box
         br
-        h1= `😬 Oops! ${error.message}` 
+        h1= `Oops! ${error.message}`
+          span(role="img", aria-label="grimacing") &#128556;
         h2= `Error Status Code: ${error.status}` 
-        p Here is some information that might help the developer of this site. 
+        p Here is some information that might help the developer of this site
         pre.stack-trace= error.stack 
     nav.nav
       a(href='/')
