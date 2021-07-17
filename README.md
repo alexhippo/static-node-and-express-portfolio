@@ -11,6 +11,7 @@ The following styles were changed from the original project:
 - added hover transition of buttons to `#5c6784`
 - added hover transition of project thumbnails from greyscale to coloured
 - customised colours for active and visited links
+- increased font size to a minimum of 16px for accessibility
 - added keyboard focus outlines
 - added an emoji favicon from [Favicon.io](https://favicon.io/emoji-favicons/hippopotamus)
 
