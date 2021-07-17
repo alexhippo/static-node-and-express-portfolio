@@ -27,7 +27,7 @@ app.use((err, req, res, next) => {
     if (err.status === 404) {
         res.status(404).render('page-not-found', err);
     } else {
-        err.message = err.message || "Sorry, something went wrong. Please try again later.";
+        err.message = "Sorry, something went wrong. Please try again later.";
         err.status = err.status || 500;
         console.log(`Error Status ${err.status}: ${err.message}`);
         res.status(err.status || 500).render('error', err);
