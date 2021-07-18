@@ -24,6 +24,6 @@ Step 1: Unzip the zip file.
 
 Step 2: Open the folder on the command line, such as Git Bash, Powershell or Terminal.
 
-Step 3: Run `npm init` to install all dependencies to run this project
+Step 3: Run `npm install` to install all dependencies to run this project
 
 Step 4: Run `npm start` to start the portfolio site.
