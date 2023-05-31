@@ -2,6 +2,28 @@
     "projects": [
         {
             "id": 0,
+            "project_name": "School Database: Full Stack React App",
+            "description": "This project is a Full Stack React application utilising the School Database REST API built in a previous project. Users can use the web interface built with React to sign up a new account, sign in, view courses, create and update courses.",
+            "technologies": [
+                "Javascript",
+                "Node.js",
+                "Express",
+                "SQLite",
+                "SQL ORM Sequelize",
+                "Postman",
+                "React - React Router, Hooks, Context API",
+                "Authentication"
+            ],
+            "live_link": "https://dreary-plane-production.up.railway.app/courses",
+            "github_link": "https://github.com/alexhippo/full-stack-app-with-react-rest-api",
+            "image_urls": [
+                "/static/images/full-stack-react-app-main.png",
+                "/static/images/full-stack-react-app-landscape.png",
+                "/static/images/full-stack-react-app-landscape-2.png"
+            ]
+        },
+        {
+            "id": 1,
             "project_name": "Awesome Employee Directory: Public API Integration",
             "description": "This project demonstrates API integration to Javascript web frontend through an employee directory for a fictional company called 'Awesome Startup'. The API we were required to integrate with for this project was the Random User Generator API. This project was created as part of the Treehouse Full Stack Javascript Techdegree.",
             "technologies": [
@@ -20,7 +42,7 @@
             ]
         },
         {
-            "id": 1,
+            "id": 2,
             "project_name": "2020 Phrase Hunter: Object-Oriented Programming Game",
             "description": "This project demonstrates Object-Oriented Programming principles with Javascript through a browser-based, word guessing game called 'Phrase Hunter'. Players will try to guess a random hidden phrase (based on a popular phrase from the year 2020) by selecting letters on an onscreen keyboard.",
             "technologies": [
@@ -39,7 +61,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": 3,
             "project_name": "Data Pagination & Filtering",
             "description": "This app demonstrates data pagination, filtering and DOM Manipulation techniques using a list of example student records. My project code was written in vanilla JS and not dependent on third party or external libraries. This project was created as part of the Treehouse Full Stack Techdegree course.",
             "technologies": [
@@ -56,7 +78,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": 4,
             "project_name": "Interactive Form & Accessibility",
             "description": "This project demonstrates front-end vanilla Javascript client-side validation and basic web accessibility through an interactive registration form for a fictional Full Stack Developer Conference. This project was created as part of the Treehouse Full Stack Javascript Techdegree.",
             "technologies": [
@@ -73,7 +95,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": 5,
             "project_name": "Random Quote Generator",
             "description": "This web app displays some of my favourite quotes from the women of the Marvel Cinematic Universe at random. It also changes the background color as the quote is changed. This project was created as part of the Treehouse Full Stack JavaScript Techdegree.",
             "technologies": [
