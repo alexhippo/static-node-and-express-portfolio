@@ -14,7 +14,6 @@
                 "React - React Router, Hooks, Context API",
                 "Authentication"
             ],
-            "live_link": "https://dreary-plane-production.up.railway.app/courses",
             "github_link": "https://github.com/alexhippo/full-stack-app-with-react-rest-api",
             "image_urls": [
                 "/static/images/full-stack-react-app-main.png",

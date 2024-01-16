@@ -18,7 +18,8 @@ block content
         ul
           each technology in technologies
             li= technology
-        a.btn-link(href=`${live_link}` target="_blank") Live Demo
+        if live_link
+          a.btn-link(href=`${live_link}` target="_blank") Live Demo
         a.btn-link(href=`${github_link}` target="_blank") GitHub Repo
 
     .project-img-box.box
